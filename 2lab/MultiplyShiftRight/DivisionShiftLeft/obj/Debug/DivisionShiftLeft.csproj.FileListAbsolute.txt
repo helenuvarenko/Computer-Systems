@@ -1,0 +1,7 @@
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\bin\Debug\DivisionShiftLeft.exe.config
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\bin\Debug\DivisionShiftLeft.exe
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\bin\Debug\DivisionShiftLeft.pdb
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\obj\Debug\DivisionShiftLeft.csproj.CoreCompileInputs.cache
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\obj\Debug\DivisionShiftLeft.exe
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\obj\Debug\DivisionShiftLeft.pdb
+D:\CS\2lab\MultiplyShiftRight\DivisionShiftLeft\obj\Debug\DivisionShiftLeft.csprojAssemblyReference.cache

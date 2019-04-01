@@ -1,0 +1,7 @@
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\bin\Debug\MultiplyShiftRight.exe.config
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\bin\Debug\MultiplyShiftRight.exe
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\bin\Debug\MultiplyShiftRight.pdb
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\obj\Debug\MultiplyShiftRight.csprojAssemblyReference.cache
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\obj\Debug\MultiplyShiftRight.csproj.CoreCompileInputs.cache
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\obj\Debug\MultiplyShiftRight.exe
+D:\CS\2lab\MultiplyShiftRight\MultiplyShiftRight\obj\Debug\MultiplyShiftRight.pdb

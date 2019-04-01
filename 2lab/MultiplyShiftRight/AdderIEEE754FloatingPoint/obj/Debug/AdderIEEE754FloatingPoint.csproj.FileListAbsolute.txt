@@ -1,0 +1,6 @@
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\bin\Debug\AdderIEEE754FloatingPoint.exe.config
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\bin\Debug\AdderIEEE754FloatingPoint.exe
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\bin\Debug\AdderIEEE754FloatingPoint.pdb
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\obj\Debug\AdderIEEE754FloatingPoint.csproj.CoreCompileInputs.cache
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\obj\Debug\AdderIEEE754FloatingPoint.exe
+D:\CS\2lab\MultiplyShiftRight\AdderIEEE754FloatingPoint\obj\Debug\AdderIEEE754FloatingPoint.pdb
