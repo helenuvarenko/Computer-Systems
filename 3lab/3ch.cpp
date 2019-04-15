@@ -37,8 +37,6 @@ int main() {
     Max = (x > y)? x : y;
     Max = (Max > z)? Max : z; 
     cout << "Самое большое число - " << Max << endl;
- 
- 
-    system('pause');
+  
     return 0;
 }
